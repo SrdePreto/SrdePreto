@@ -1,16 +1,24 @@
-## Hello, welcome 👋
+# 🏛️ Sr. de Preto
 
-<!--
-**SrdePreto/SrdePreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Mercado Financeiro SMC/ICT/PA`**
 
-Here are some ideas to get you started:
+Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolvimento de Sistema, Pós-graduado em Engenharia da Computação, Pós-graduado em Educação a Distância, atuante no Mercado Finaceiro como Investidor e Trader.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+    <a href="https://www.youtube.com/@SrdePreto?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se em meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@SrdePreto">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a>  
+</p>
+

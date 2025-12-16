@@ -2,7 +2,7 @@
 
 **`Analista de Mercado Financeiro SMC/ICT/PA`**
 
-Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolvimento de Sistema, Pós-graduado em Engenharia da Computação, Pós-graduado em Educação a Distância, atuante no Mercado Finaceiro como Investidor e Trader.
+Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolvimento de Sistema, Pós-graduado em Engenharia da Computação, Pós-graduado em Educação a Distância. Operador  no Mercado Finaceiro como Investidor e Trader.
 
 
 <p align="left">

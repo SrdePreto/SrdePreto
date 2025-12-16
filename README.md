@@ -2,7 +2,7 @@
 
 **`Analista de Mercado Financeiro SMC/ICT/PA`**
 
-Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolvimento de Sistema, Pós-graduado em Engenharia da Computação, Pós-graduado em Educação a Distância. Operador no Mercado Financeiro como Investidor e Trader.
+Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolvimento de Sistema, Pós-graduado em Engenharia da Computação, Pós-graduado em Educação Virtual. Operador no Mercado Financeiro atuando como Investidor e Trader.
 
 
 <p align="left">
@@ -117,7 +117,7 @@ Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolv
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
@@ -141,7 +141,7 @@ Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolv
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 

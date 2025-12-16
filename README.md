@@ -77,7 +77,7 @@ Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolv
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -85,7 +85,7 @@ Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolv
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
@@ -101,7 +101,7 @@ Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolv
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
@@ -117,7 +117,7 @@ Apaixonado por Tecnologia e Mercado Financeiro, Graduado em Análise e Desenvolv
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
